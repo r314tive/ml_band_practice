@@ -1,2 +1,1 @@
-# ml_band_practice
-session01
+1. session01 - logistic regression and gradient descent
